@@ -1,5 +1,6 @@
 ---
 layout: default
+title : 'Healthcare Revolutionizing for a Connected World: The Future of Digital Health'
 ---
 
 ## Introduction

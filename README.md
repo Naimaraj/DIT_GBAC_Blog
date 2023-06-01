@@ -47,7 +47,7 @@ Utilizing the enormous amounts of data thehealthcare sector produces might resul
 
 Software-as-a-medical-device, or digital therapies, has arisen as a cutting-edge medical practice. These digital interventions—which are frequently distributed via smartphone applications—are intended to manage, prevent, or treat medical disorders. They can give individualized advice, keep track of a patient's development, and provide cognitive behavioural therapy or other treatment approaches. Digital treatments can tailor treatment programs to each patient's unique requirements by fusing patient-generated health data with machine learning algorithms, improving results and empowering patients. 
 
-![Screenshot](./Assets/fig-6.jpg)
+![Screenshot](./Assets/fig-6.png)
 
 ## Ethical Considerations and Data Privacy
 Although the digital health revolution has many advantages, it also poses issues with data privacy and ethics. To keep patients' faith in the healthcare system, personal data must be protected and transmitted and stored securely. Finding the ideal balance between protecting individual privacy and allowing access to data for research purposes is a serious concern. In order to prevent exacerbated current health inequities, it is also crucial to ensure fairness in access to digital health technology.

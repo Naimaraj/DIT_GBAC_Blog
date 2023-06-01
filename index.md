@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Healthcare Revolutionizing for a Connected World: The Future of Digital Health
-
 ## Introduction
 Healthcare has not been exempt from the extraordinary technological
 breakthroughs that have changed many other businesses in recent years. Our approach to
